@@ -1,0 +1,51 @@
+.home
+{
+
+}
+.sub
+{
+
+}
+.contact
+{
+
+}
+
+body{
+
+    background-image: url("http://cdn.wallpapersafari.com/48/71/DJbO57.jpg");
+
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+h3
+{
+
+    padding-left: 500px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+  
+    text-align: center;
+    padding: 14px 52px;
+    text-decoration: none;
+}
+.formDiv{
+background-color: lightblue;
+color:black;
+
+
+}
